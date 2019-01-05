@@ -1,0 +1,16 @@
+﻿  ContactManager.cpp
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(173): warning C4101: 'res': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(172): warning C4101: 'row': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(212): warning C4101: 'res': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(211): warning C4101: 'row': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(295): warning C4101: 'res': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(294): warning C4101: 'row': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(386): warning C4129: 'C': unrecognized character escape sequence
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(498): warning C4101: 'intinput': unreferenced local variable
+c:\users\franki\source\repos\contactmanager\contactmanager\programfunctions.h(635): warning C4101: 'contactid': unreferenced local variable
+  Generating code
+  1 of 273 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ContactManager.vcxproj -> C:\Users\FRANKI\source\repos\ContactManager\x64\Release\ContactManager.exe
